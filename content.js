@@ -1,8 +1,10 @@
 // Mapping of the words that deserve to be censored. 
-// TODO - map to something better
 const yuckyWords = {
-    'AI' : 'TESTING1',
-    'ML' : 'TESTING2'
+    'AI' : 'AlmostIntelligent🤪',
+    'ML' : 'MostlyLucky🍀',
+    'Artificial Intelligence' : 'A☠️tificial Inte🤮ligence',
+    'Machine Learning' : 'Machi🤖e L🦙earnin',
+    'LLM' : 'LargeLemonMuffin🧁'
 };
 
 // Flag to prevent infinite loops during text replacement
