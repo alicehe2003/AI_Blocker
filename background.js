@@ -6,7 +6,7 @@ chrome.runtime.onInstalled.addListener(() => {
 }); 
 
 // Listen for tab updates to ensure content script runs on navigation
-chroms.tabs.onUpdated.addListener((tabId, changeInfo, tab) => {
+chrome.tabs.onUpdated.addListener((tabId, changeInfo, tab) => {
     if (changeInfo.status === 'complete' && tab.url) {
         // Content script will automatically run due to manifest configuration 
         console.log(`Page loaded: ${tab.url}`); 
