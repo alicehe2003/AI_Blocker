@@ -2,9 +2,8 @@
 const yuckyWords = {
     'AI' : 'AlmostIntelligent🤪',
     'ML' : 'MostlyLucky🍀',
-    'Artificial Intelligence' : 'A☠️tificial Inte🤮ligence',
-    'Machine Learning' : 'Machi🤖e L🦙earnin',
-    'LLM' : 'LargeLemonMuffin🧁'
+    'LLM' : 'LargeLemonMuffin🧁',
+    'LLMs' : 'LargeLemonMuffins🧁'
 };
 
 // Flag to prevent infinite loops during text replacement

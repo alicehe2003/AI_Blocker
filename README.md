@@ -38,8 +38,8 @@ Our team of highly qualified developers (Alice + various LLMs) have created a RE
 ### 🎁 Limited time offer: 
 
 Install now and receive: 
-✅ Complete protection from FIVE whole abbreviations
-✅ The ability to confuse everyone around you when you start talking about "AlmostIntelligent🤪" (AI), "MostlyLucky🍀" (ML), and "LargeLemonMuffin🧁" (LLM)
+✅ Complete protection from THREE whole abbreviations
+✅ The ability to confuse everyone around you when you start talking about "AlmostIntelligent🤪" (AI), "MostlyLucky🍀" (ML), and "LargeLemonMuffin🧁" (LLM) (plus it's plural version!)
 ✅ Hours of debugging practice when it inevitably breaks something
 
 ### 🤔 FAQ: 
