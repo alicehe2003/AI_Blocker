@@ -42,4 +42,22 @@ Install now and receive:
 ✅ The ability to confuse everyone around you when you start talking about "AlmostIntelligent🤪" (AI), "MostlyLucky🍀" (ML), and "LargeLemonMuffin🧁" (LLM)
 ✅ Hours of debugging practice when it inevitably breaks something
 
-🤔
+### 🤔 FAQ: 
+
+Q: Why would anyone need this?  
+A: // TODO: figure out why 
+
+Q: What if I actually need to discuss AI or ML related topics?  
+A: Get creative! Try "that robot thinking stuff" or "computer learning thingies"
+
+Q: Is this extension useful?  
+A: Define "useful"
+
+Q: Will this make my browsing experience better?  
+A: It will certainly make it...different
+
+### 🚀 Download now! 
+
+Jk, you're gonna have to clone the repo, go to chrome://extensions/, open developer mode, and load the unpacked extension. 
+
+Warning: extension may cause browser instability, confused looks from colleagues, and an overwhelming urge to explain to everyone why you're afraid of certain acronyms. Please browser responsibly. 
