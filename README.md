@@ -58,6 +58,6 @@ A: It will certainly make it...different
 
 ### 🚀 Download now! 
 
-Jk, you're gonna have to clone the repo, go to chrome://extensions/, open developer mode, and load the unpacked extension. 
+Jk, you're gonna have to clone the repo, go to `chrome://extensions/`, open developer mode, and load the unpacked extension. 
 
 Warning: extension may cause browser instability, confused looks from colleagues, and an overwhelming urge to explain to everyone why you're afraid of certain acronyms. Please browser responsibly. 
