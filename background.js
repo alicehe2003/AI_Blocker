@@ -1,5 +1,5 @@
 // Background service worker for the extension 
-// Hanfles extension lifecycle events 
+// Handles extension lifecycle events 
 
 chrome.runtime.onInstalled.addListener(() => {
     console.log("Word censorship extension installed."); 
